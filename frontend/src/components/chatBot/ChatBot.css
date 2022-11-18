@@ -1,0 +1,18 @@
+.chatbot button {
+  font-size: 3rem;
+  z-index: 100;
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+  color: black;
+  background-color: antiquewhite;
+  padding: 10px 10px 3px 10px;
+  border-radius: 50%;
+  transition: all 0.2s ease-in;
+  border: none;
+}
+
+.chatbot button:hover {
+  font-size: 3.2rem;
+  cursor: pointer;
+}
