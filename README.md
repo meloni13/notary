@@ -1,3 +1,3 @@
 # notary
 
-Project Idea credit: lodhayash99
+Project Idea credit: @lodhayash99
