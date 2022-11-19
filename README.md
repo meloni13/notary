@@ -1,3 +1,3 @@
 # notary
 
-Project Idea credit: [Yash Jain] (https://github.com/lodhayash99)
+Project Idea credit: [Yash Jain](https://github.com/lodhayash99)
